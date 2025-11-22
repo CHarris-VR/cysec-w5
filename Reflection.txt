@@ -1,0 +1,6 @@
+Automated systems often use thresholds and logic
+ instead of requiring analysts to review every login 
+ because it makes it easier for an analyst go through
+ several different files individually.
+ This helps save time and priority focus for specific tasks 
+ regarding the analysts daily job.
