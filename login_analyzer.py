@@ -21,3 +21,11 @@ elif failed_logins > 0:
     print("[-] Notice: Some failed attempts observed.")
 else:
     print("[+] No failed logins recorded.")
+
+# adding reporting
+
+print("\n=== Login Attempt Summary ===")
+print(f"Username: {username}")
+print(f"Failed Attempts: {failed_logins}")
+print(f"Privileged Account: {critical_user}")
+
